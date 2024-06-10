@@ -12,7 +12,7 @@
 
 <header>
     <h1>Projeto Média de Notas</h1>
-    <img src="./img/nota.png" alt="img" width="300" height="auto">
+    <img src="./img/nota.png" alt="media" width="300" height="auto">
 </header>
 
 <details>
@@ -42,8 +42,8 @@
     <ul>
         <li>IDE utilizada: Visual Studio Code</li>
         <li>Backend: O projeto é focado na lógica de cálculo em Java.</li>
-        <li>Frontend: Não aplicável para este projeto.</li>
-        <li>Banco de Dados: Não aplicável para este projeto.</li>
+
+
     </ul>
 </section>
 
@@ -76,9 +76,9 @@
     <h2>Contato</h2>
     <ul>
         <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
-        <li><a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"> clique para acessar o projeto</a></li>
+
     </ul>
-    <p>Acesse o projeto na Vercel</p>
+
 </section>
 
 </body>
