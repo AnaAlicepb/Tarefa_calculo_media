@@ -12,7 +12,7 @@
 
 <header>
     <h1>Projeto Média de Notas</h1>
-    <img src="./img/nota.png" alt="media" width="300" height="auto">
+    <img src="/img/nota.png" alt="media" width="300" height="auto">
 </header>
 
 <details>
@@ -42,8 +42,6 @@
     <ul>
         <li>IDE utilizada: Visual Studio Code</li>
         <li>Backend: O projeto é focado na lógica de cálculo em Java.</li>
-
-
     </ul>
 </section>
 
