@@ -12,7 +12,7 @@
 
 <header>
     <h1>Projeto Média de Notas</h1>
-    <img src="/img/nota.png" alt="media" width="300" height="auto">
+    <img src="./img/nota.png" alt="media" width="300" height="auto">
 </header>
 
 <details>
