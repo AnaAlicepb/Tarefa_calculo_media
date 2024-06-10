@@ -6,13 +6,13 @@
     <meta name="description" content="Projeto de exemplo que calcula a média de quatro notas em Java.">
     <meta name="keywords" content="Java, Média de Notas, Projeto, VS Code">
     <meta name="author" content="Ana Alice Rodrigues">
-    
+
 </head>
 <body>
 
 <header>
     <h1>Projeto Média de Notas</h1>
-    <img src="path/to/your/image.jpg" alt="img" width="300" height="auto">
+    <img src="./img/nota.png" alt="img" width="300" height="auto">
 </header>
 
 <details>
